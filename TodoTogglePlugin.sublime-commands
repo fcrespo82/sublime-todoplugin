@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "TodoToggle: Toggle checked",
+        "command": "todo_toggle"
+    }
+]

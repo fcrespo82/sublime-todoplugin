@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+shift+space"],
+        "command": "todo_toggle"
+    }
+]
